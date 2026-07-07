@@ -8,7 +8,7 @@
   "errorLogFile": "data/status-error.log",
   "authEnabled": true,
   "authUsername": "fenno",
-  "authPassword": "fenno@Qiniu7",
+  "authPassword": "*",
   "authSecret": "local-demo-secret",
   "authSessionHours": 12,
   "authCookieSecure": false,
