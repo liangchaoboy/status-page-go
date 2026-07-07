@@ -1,0 +1,16 @@
+{
+  "upstreamAPI": "https://api.fenno.ai/open/v1/upstream-status",
+  "port": "13000",
+  "alertThreshold": 0.05,
+  "alertConsecutivePoints": 2,
+  "checkInterval": 5,
+  "stateFile": "data/status-state.json",
+  "errorLogFile": "data/status-error.log",
+  "authEnabled": true,
+  "authUsername": "fenno",
+  "authPassword": "fenno@Qiniu7",
+  "authSecret": "local-demo-secret",
+  "authSessionHours": 12,
+  "authCookieSecure": false,
+  "updatedAt": "2026-07-07T03:15:51Z"
+}

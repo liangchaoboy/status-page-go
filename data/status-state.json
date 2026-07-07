@@ -1,0 +1,162 @@
+{
+  "currentStatus": {
+    "timestamp": "2026-07-07T06:10:10Z",
+    "status5m": {
+      "time_range": {
+        "start_time": "2026-07-07T06:05:10Z",
+        "end_time": "2026-07-07T06:10:10Z"
+      },
+      "error_ratio": 0.0078
+    },
+    "status30m": {
+      "time_range": {
+        "start_time": "2026-07-07T05:40:10Z",
+        "end_time": "2026-07-07T06:10:10Z"
+      },
+      "error_ratio": 0.0074
+    },
+    "status60m": {
+      "time_range": {
+        "start_time": "2026-07-07T05:10:10Z",
+        "end_time": "2026-07-07T06:10:10Z"
+      },
+      "error_ratio": 0.0064
+    },
+    "status360m": {
+      "time_range": {
+        "start_time": "2026-07-07T00:10:10Z",
+        "end_time": "2026-07-07T06:10:10Z"
+      },
+      "error_ratio": 0.0256
+    },
+    "overall": {
+      "status": "operational",
+      "message": "服务正常运行：当前失败率 0.78%，基准线 5.00%"
+    }
+  },
+  "statusHistory": [
+    {
+      "timestamp": "2026-07-07T03:15:51Z",
+      "error_ratio": 0.0542,
+      "status": "degraded"
+    },
+    {
+      "timestamp": "2026-07-07T03:20:51Z",
+      "error_ratio": 0.0109,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T03:25:51Z",
+      "error_ratio": 0.0016,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T03:30:51Z",
+      "error_ratio": 0.004,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T03:35:51Z",
+      "error_ratio": 0.0037,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T03:40:51Z",
+      "error_ratio": 0.0033,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T03:45:51Z",
+      "error_ratio": 0.0061,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T03:50:51Z",
+      "error_ratio": 0.0012,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T04:50:18Z",
+      "error_ratio": 0,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T04:55:18Z",
+      "error_ratio": 0,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T05:00:18Z",
+      "error_ratio": 0.0017,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T05:05:18Z",
+      "error_ratio": 0.0063,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T05:12:30Z",
+      "error_ratio": 0.0027,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T05:17:30Z",
+      "error_ratio": 0.0052,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T05:22:30Z",
+      "error_ratio": 0.0071,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T05:27:30Z",
+      "error_ratio": 0.0024,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T05:32:30Z",
+      "error_ratio": 0.009,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T05:37:30Z",
+      "error_ratio": 0.0021,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T05:42:30Z",
+      "error_ratio": 0.0008,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T05:47:30Z",
+      "error_ratio": 0.0098,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T05:52:30Z",
+      "error_ratio": 0.008,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T05:57:30Z",
+      "error_ratio": 0.0114,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T06:05:10Z",
+      "error_ratio": 0.0023,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T06:10:10Z",
+      "error_ratio": 0.0078,
+      "status": "operational"
+    }
+  ],
+  "alerts": null,
+  "webhooks": null,
+  "savedAt": "2026-07-07T06:10:10Z"
+}
