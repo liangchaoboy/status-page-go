@@ -1,37 +1,37 @@
 {
   "currentStatus": {
-    "timestamp": "2026-07-07T06:10:10Z",
+    "timestamp": "2026-07-07T06:15:10Z",
     "status5m": {
       "time_range": {
-        "start_time": "2026-07-07T06:05:10Z",
-        "end_time": "2026-07-07T06:10:10Z"
+        "start_time": "2026-07-07T06:10:10Z",
+        "end_time": "2026-07-07T06:15:10Z"
       },
-      "error_ratio": 0.0078
+      "error_ratio": 0.0283
     },
     "status30m": {
       "time_range": {
-        "start_time": "2026-07-07T05:40:10Z",
-        "end_time": "2026-07-07T06:10:10Z"
+        "start_time": "2026-07-07T05:45:10Z",
+        "end_time": "2026-07-07T06:15:10Z"
       },
-      "error_ratio": 0.0074
+      "error_ratio": 0.0118
     },
     "status60m": {
       "time_range": {
-        "start_time": "2026-07-07T05:10:10Z",
-        "end_time": "2026-07-07T06:10:10Z"
+        "start_time": "2026-07-07T05:15:10Z",
+        "end_time": "2026-07-07T06:15:10Z"
       },
-      "error_ratio": 0.0064
+      "error_ratio": 0.0092
     },
     "status360m": {
       "time_range": {
-        "start_time": "2026-07-07T00:10:10Z",
-        "end_time": "2026-07-07T06:10:10Z"
+        "start_time": "2026-07-07T00:15:10Z",
+        "end_time": "2026-07-07T06:15:10Z"
       },
-      "error_ratio": 0.0256
+      "error_ratio": 0.0257
     },
     "overall": {
       "status": "operational",
-      "message": "服务正常运行：当前失败率 0.78%，基准线 5.00%"
+      "message": "服务正常运行：当前失败率 2.83%，基准线 5.00%"
     }
   },
   "statusHistory": [
@@ -154,9 +154,14 @@
       "timestamp": "2026-07-07T06:10:10Z",
       "error_ratio": 0.0078,
       "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T06:15:10Z",
+      "error_ratio": 0.0283,
+      "status": "operational"
     }
   ],
   "alerts": null,
   "webhooks": null,
-  "savedAt": "2026-07-07T06:10:10Z"
+  "savedAt": "2026-07-07T06:15:13Z"
 }
