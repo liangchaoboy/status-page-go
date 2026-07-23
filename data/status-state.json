@@ -1,37 +1,37 @@
 {
   "currentStatus": {
-    "timestamp": "2026-07-07T06:15:10Z",
+    "timestamp": "2026-07-07T08:26:58Z",
     "status5m": {
       "time_range": {
-        "start_time": "2026-07-07T06:10:10Z",
-        "end_time": "2026-07-07T06:15:10Z"
+        "start_time": "2026-07-07T08:22:01Z",
+        "end_time": "2026-07-07T08:27:01Z"
       },
-      "error_ratio": 0.0283
+      "error_ratio": 0.0013
     },
     "status30m": {
       "time_range": {
-        "start_time": "2026-07-07T05:45:10Z",
-        "end_time": "2026-07-07T06:15:10Z"
+        "start_time": "2026-07-07T07:57:01Z",
+        "end_time": "2026-07-07T08:27:01Z"
       },
-      "error_ratio": 0.0118
+      "error_ratio": 0.0054
     },
     "status60m": {
       "time_range": {
-        "start_time": "2026-07-07T05:15:10Z",
-        "end_time": "2026-07-07T06:15:10Z"
+        "start_time": "2026-07-07T07:27:01Z",
+        "end_time": "2026-07-07T08:27:01Z"
       },
-      "error_ratio": 0.0092
+      "error_ratio": 0.0141
     },
     "status360m": {
       "time_range": {
-        "start_time": "2026-07-07T00:15:10Z",
-        "end_time": "2026-07-07T06:15:10Z"
+        "start_time": "2026-07-07T02:27:01Z",
+        "end_time": "2026-07-07T08:27:01Z"
       },
-      "error_ratio": 0.0257
+      "error_ratio": 0.0117
     },
     "overall": {
       "status": "operational",
-      "message": "服务正常运行：当前失败率 2.83%，基准线 5.00%"
+      "message": "服务正常运行：当前失败率 0.13%，基准线 5.00%"
     }
   },
   "statusHistory": [
@@ -159,9 +159,114 @@
       "timestamp": "2026-07-07T06:15:10Z",
       "error_ratio": 0.0283,
       "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T06:20:10Z",
+      "error_ratio": 0.005,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T06:25:10Z",
+      "error_ratio": 0.0025,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T06:30:10Z",
+      "error_ratio": 0.0113,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T06:35:10Z",
+      "error_ratio": 0.0046,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T06:40:10Z",
+      "error_ratio": 0.0078,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T06:45:10Z",
+      "error_ratio": 0.0067,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T06:50:10Z",
+      "error_ratio": 0.0052,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T06:55:10Z",
+      "error_ratio": 0.0017,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T07:00:10Z",
+      "error_ratio": 0.007,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T07:05:10Z",
+      "error_ratio": 0.0258,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T07:10:10Z",
+      "error_ratio": 0.0379,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T07:41:58Z",
+      "error_ratio": 0.0248,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T07:46:58Z",
+      "error_ratio": 0.0083,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T07:51:58Z",
+      "error_ratio": 0.007,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T07:56:58Z",
+      "error_ratio": 0.0106,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T08:01:58Z",
+      "error_ratio": 0.0072,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T08:06:58Z",
+      "error_ratio": 0.0058,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T08:11:58Z",
+      "error_ratio": 0.0059,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T08:16:58Z",
+      "error_ratio": 0.007,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T08:21:58Z",
+      "error_ratio": 0.0055,
+      "status": "operational"
+    },
+    {
+      "timestamp": "2026-07-07T08:26:58Z",
+      "error_ratio": 0.0013,
+      "status": "operational"
     }
   ],
   "alerts": null,
   "webhooks": null,
-  "savedAt": "2026-07-07T06:15:13Z"
+  "savedAt": "2026-07-07T08:27:02Z"
 }
